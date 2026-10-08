@@ -1,0 +1,1 @@
+# this file is meant to have ReLU, ReLu derivation, and softmax functions for the neural network
